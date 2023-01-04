@@ -1,22 +1,19 @@
-.fullCircle1
-{
-    width: 100px;
-    height:100px;
-    bordeR: 1px solid;
-    border-radius: 50%;
-    background-color: #E6563B ;
-}
 
-.fullCircle2
-{
-    width: 100px;
-    height:100px;
-    bordeR: 1px solid;
-    border-radius: 50%;
-    background-color: #EB9D3A  ;
-}
 
 
 body{ background-color: #E6E6E6 ;
 
+}
+
+.bg-1{
+    background-color:#E6563B;
+}
+.bg-2{
+    background-color:#EB9D3A;
+}
+.bg-3{
+    background-color: #7CB06C;
+}
+.bg-4{
+    background-color: #00ABA9;
 }
