@@ -1,0 +1,22 @@
+.fullCircle1
+{
+    width: 100px;
+    height:100px;
+    bordeR: 1px solid;
+    border-radius: 50%;
+    background-color: #E6563B ;
+}
+
+.fullCircle2
+{
+    width: 100px;
+    height:100px;
+    bordeR: 1px solid;
+    border-radius: 50%;
+    background-color: #EB9D3A  ;
+}
+
+
+body{ background-color: #E6E6E6 ;
+
+}
