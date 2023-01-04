@@ -10,6 +10,7 @@ body{ background-color: #E6E6E6 ;
 
 .bg-1{
     background-color:#E6563B;
+
 }
 .bg-2{
     background-color:#EB9D3A;
@@ -20,3 +21,10 @@ body{ background-color: #E6E6E6 ;
 .bg-4{
     background-color: #00ABA9;
 }
+.bg-5{
+    height: 3px;
+    width: 3px;
+}
+
+
+
