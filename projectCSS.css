@@ -62,10 +62,27 @@ body{ background-color: #E6E6E6 ;
     display: inline-block;
     font-size: 12px;
 }
+h3{
+    font-family: "Anton";
+    font-size: 4em;
+}
+p{
+    font-family: "Anton";
+}
+h4{
+    font-family: "Abel";
+}
+h2{
+    font-family: "Anton";
+    font-size: 3em;
 
+}
 
+h1{
+    font-family: "Anton";
+    font-size: 2em;
 
-
+}
 
 
 
