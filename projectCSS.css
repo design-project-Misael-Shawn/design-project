@@ -3,23 +3,29 @@
 
 
 
-
 body{ background-color: #E6E6E6 ;
 
 }
 
 .bg-1{
     background-color:#E6563B;
-
+    height: 10em;
+    width: 10em;
 }
 .bg-2{
     background-color:#EB9D3A;
+    height: 10em;
+    width: 10em;
 }
 .bg-3{
     background-color: #7CB06C;
+    height: 10em;
+    width: 10em;
 }
 .bg-4{
     background-color: #00ABA9;
+    height: 10em;
+    width: 10em;
 }
 .bg-5{
     height: 3px;
@@ -66,7 +72,7 @@ h3{
     font-family: "Anton";
     font-size: 4em;
 }
-p{
+b{
     font-family: "Anton";
 }
 h4{
@@ -83,22 +89,46 @@ h1{
     font-size: 2em;
 
 }
-
 a{
     font-family: "Abel";
 }
-
-p{
-    font-family: "Anton";
-    font-size: 2em
-;
-}
-
 .head{
     height: 6em;
     width: 6em;
 }
 
+li{
+    font-family: "Anton";
+    font-size: 1em;
+    list-style: none;
+
+;
+}
+ol>li{
+    font-family: sans-serif;
+}
+
+.dot {
+    height: 80px;
+    width: 80px;
+    background-color: #E6563B;
+    border-radius: 50%;
+    display: inline-block;
+
+
+
+}
+.dot>p{
+    color: #E6E6E6;
+
+}
+.dotwhite{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
 
 
 
