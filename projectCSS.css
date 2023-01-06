@@ -84,8 +84,20 @@ h1{
 
 }
 
+a{
+    font-family: "Abel";
+}
 
+p{
+    font-family: "Anton";
+    font-size: 2em
+;
+}
 
+.head{
+    height: 6em;
+    width: 6em;
+}
 
 
 

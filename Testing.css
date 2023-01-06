@@ -1,73 +1,103 @@
-/*!**!*/
-
-
-
-
-
-/*body{ background-color: #E6E6E6 ;*/
-
-/*}*/
-
-/*.bg-1{*/
-/*    background-color:#E6563B;*/
-
-/*}*/
-/*.bg-2{*/
-/*    background-color:#EB9D3A;*/
-/*}*/
-/*.bg-3{*/
-/*    background-color: #7CB06C;*/
-/*}*/
-/*.bg-4{*/
-/*    background-color: #00ABA9;*/
-/*}*/
-/*.bg-5{*/
-/*    height: 3px;*/
-/*    width: 3px;*/
-/*}*/
-
-
-/*.dot1 {*/
-/*    height: 18px;*/
-/*    width: 18px;*/
-/*    background-color: #E6563B;*/
-/*    border-radius: 50%;*/
-/*    display: inline-block;*/
-/*    font-size: 12px;*/
-/*}*/
-
-/*.dot2 {*/
-/*    height: 18px;*/
-/*    width: 18px;*/
-/*    background-color: #EB9D3A ;*/
-/*    border-radius: 50%;*/
-/*    display: inline-block;*/
-/*    font-size: 12px;*/
-/*}*/
-
-/*.dot3 {*/
-/*    height: 18px;*/
-/*    width: 18px;*/
-/*    background-color: #7CB06C ;*/
-/*    border-radius: 50%;*/
-/*    display: inline-block;*/
-/*    font-size: 12px;*/
-/*}*/
-
-/*.dot4 {*/
-/*    height: 18px;*/
-/*    width: 18px;*/
-/*    background-color: #00ABA9;*/
-/*    border-radius: 50%;*/
-/*    display: inline-block;*/
-/*    font-size: 12px;*/
-/*}*/
 
 
 
 
 
 
+body{ background-color: #E6E6E6 ;
+
+}
+
+.bg-1{
+    background-color:#E6563B;
+
+}
+.bg-2{
+    background-color:#EB9D3A;
+}
+.bg-3{
+    background-color: #7CB06C;
+}
+.bg-4{
+    background-color: #00ABA9;
+}
+.bg-5{
+    height: 3px;
+    width: 3px;
+}
+
+
+.dot1 {
+    height: 18px;
+    width: 18px;
+    background-color: #E6563B;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.dot2 {
+    height: 18px;
+    width: 18px;
+    background-color: #EB9D3A ;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.dot3 {
+    height: 18px;
+    width: 18px;
+    background-color: #7CB06C ;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.dot4 {
+    height: 18px;
+    width: 18px;
+    background-color: #00ABA9;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 12px;
+}
+h3{
+    font-family: "Anton";
+    font-size: 4em;
+}
+p{
+    font-family: "Anton";
+}
+h4{
+    font-family: "Abel";
+}
+h2{
+    font-family: "Anton";
+    font-size: 3em;
+
+}
+
+h1{
+    font-family: "Anton";
+    font-size: 2em;
+
+}
+
+a{
+    font-family: "Abel";
+}
+
+p{
+    font-family: "Anton";
+    font-size: 2em
+;
+}
+
+.head{
+    height: 6em;
+    width: 6em;
+}
 
 
 
@@ -76,21 +106,3 @@
 
 
 
-
-/*!**/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/**!*/
