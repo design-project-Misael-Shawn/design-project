@@ -107,7 +107,6 @@ li{
 ol>li{
     font-family: sans-serif;
 }
-
 .rounded-circle {
     position: relative;
 }
@@ -118,3 +117,4 @@ ol>li{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
