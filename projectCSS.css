@@ -108,31 +108,13 @@ ol>li{
     font-family: sans-serif;
 }
 
-.dot {
-    height: 80px;
-    width: 80px;
-    background-color: #E6563B;
-    border-radius: 50%;
-    display: inline-block;
-
-
-
-}
-.dot>p{
-    color: #E6E6E6;
-
-}
-.dotwhite{
-    height: 100px;
-    width: 100px;
-    background-color: white;
-    border-radius: 50%;
-    display: inline-block;
+.rounded-circle {
+    position: relative;
 }
 
-
-
-
-
-
-
+.rounded-circle h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
